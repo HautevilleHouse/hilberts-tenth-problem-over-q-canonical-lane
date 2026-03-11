@@ -1,0 +1,53 @@
+{
+  "constants": {
+    "eps_coh": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/HILBERTS_TENTH_PROBLEM_OVER_Q_PREPRINT.md Appendix E.6; raw=0.0, ref=1.0, formula=eps_coh_raw",
+      "source": "artifacts/constants_extracted.json#eps_coh",
+      "source_section": "paper/HILBERTS_TENTH_PROBLEM_OVER_Q_PREPRINT.md Appendix E.6",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 0.0
+    },
+    "kappa_compact": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/HILBERTS_TENTH_PROBLEM_OVER_Q_PREPRINT.md Section 5.3 / Appendix C; raw=0.8051529790660226, ref=1.0, formula=1.0 / (1.0 + delta_comp_sup_raw)",
+      "source": "artifacts/constants_extracted.json#kappa_compact",
+      "source_section": "paper/HILBERTS_TENTH_PROBLEM_OVER_Q_PREPRINT.md Section 5.3 / Appendix C",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 0.8051529790660226
+    },
+    "kappa_definability": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/HILBERTS_TENTH_PROBLEM_OVER_Q_PREPRINT.md Section 4.5 / Appendix A; raw=1.09441, ref=1.0, formula=c_def_raw * definability_density_raw - e_def_raw",
+      "source": "artifacts/constants_extracted.json#kappa_definability",
+      "source_section": "paper/HILBERTS_TENTH_PROBLEM_OVER_Q_PREPRINT.md Section 4.5 / Appendix A",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.09441
+    },
+    "rho_rigidity": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/HILBERTS_TENTH_PROBLEM_OVER_Q_PREPRINT.md Section 6.1 / Appendix D; raw=1.075, ref=1.0, formula=rho_rigidity_raw",
+      "source": "artifacts/constants_extracted.json#rho_rigidity",
+      "source_section": "paper/HILBERTS_TENTH_PROBLEM_OVER_Q_PREPRINT.md Section 6.1 / Appendix D",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.075
+    },
+    "sigma_encoding": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/HILBERTS_TENTH_PROBLEM_OVER_Q_PREPRINT.md Section 5.2 / Appendix B; raw=1.072, ref=1.0, formula=encoding_floor_raw - simulation_loss_raw - restart_loss_raw",
+      "source": "artifacts/constants_extracted.json#sigma_encoding",
+      "source_section": "paper/HILBERTS_TENTH_PROBLEM_OVER_Q_PREPRINT.md Section 5.2 / Appendix B",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.072
+    },
+    "undecidability_transfer": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/HILBERTS_TENTH_PROBLEM_OVER_Q_PREPRINT.md Section 6.2 / Appendix E.4; raw=1.0293929999999998, ref=1.0, formula=c_undec_raw * transfer_gain_raw - e_undec_raw",
+      "source": "artifacts/constants_extracted.json#undecidability_transfer",
+      "source_section": "paper/HILBERTS_TENTH_PROBLEM_OVER_Q_PREPRINT.md Section 6.2 / Appendix E.4",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.0293929999999998
+    }
+  },
+  "updated_at_utc": "2026-03-11T22:17:49Z"
+}

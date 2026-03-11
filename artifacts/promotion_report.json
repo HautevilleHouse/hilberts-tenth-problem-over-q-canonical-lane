@@ -1,0 +1,19 @@
+{
+  "extracted_source": "artifacts/constants_extracted.json",
+  "framework": "hilberts_tenth_problem_over_q",
+  "generated_utc": "2026-03-11T22:17:49Z",
+  "promoted_constants": {
+    "eps_coh": 0.0,
+    "kappa_compact": 0.8051529790660226,
+    "kappa_definability": 1.09441,
+    "rho_rigidity": 1.075,
+    "sigma_encoding": 1.072,
+    "undecidability_transfer": 1.0293929999999998
+  },
+  "promoted_stitch": {
+    "sigma_star_can": 1.053
+  },
+  "registry_path": "artifacts/constants_registry.json",
+  "schema_version": "2026-03-05",
+  "stitch_path": "artifacts/stitch_constants.json"
+}

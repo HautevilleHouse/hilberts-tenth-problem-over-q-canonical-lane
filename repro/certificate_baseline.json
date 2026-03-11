@@ -1,0 +1,78 @@
+{
+  "all_pass": true,
+  "all_pass_normalized": true,
+  "blockers": {
+    "H10Q_G1": [],
+    "H10Q_G2": [],
+    "H10Q_G3": [],
+    "H10Q_G4": [],
+    "H10Q_G5": [],
+    "H10Q_G6": [],
+    "H10Q_GM": []
+  },
+  "derived": {
+    "strict_coh_zero": true,
+    "strict_margin": 0.8051529790660226
+  },
+  "gates": {
+    "H10Q_G1": "PASS",
+    "H10Q_G2": "PASS",
+    "H10Q_G3": "PASS",
+    "H10Q_G4": "PASS",
+    "H10Q_G5": "PASS",
+    "H10Q_G6": "PASS",
+    "H10Q_GM": "PASS"
+  },
+  "inputs": {
+    "eps_coh": 0.0,
+    "kappa_compact": 0.8051529790660226,
+    "kappa_definability": 1.09441,
+    "rho_rigidity": 1.075,
+    "sigma_encoding": 1.072,
+    "sigma_star_can": 1.053,
+    "undecidability_transfer": 1.0293929999999998
+  },
+  "lane": {
+    "active_lane": "manifold_constrained",
+    "canonical_theorem_lane": "manifold_constrained"
+  },
+  "meta": {
+    "computed_at_utc": "2026-03-11T22:17:07+00:00",
+    "framework": "hilberts_tenth_problem_over_q"
+  },
+  "normalized": {
+    "blockers": {
+      "G1": [],
+      "G2": [],
+      "G3": [],
+      "G4": [],
+      "G5": [],
+      "G6": [],
+      "GCoh": [],
+      "GM": []
+    },
+    "gates": {
+      "G1": "PASS",
+      "G2": "PASS",
+      "G3": "PASS",
+      "G4": "PASS",
+      "G5": "PASS",
+      "G6": "NA",
+      "GCoh": "PASS",
+      "GM": "PASS"
+    }
+  },
+  "schema": {
+    "g6_policy": "NA means this framework has no standalone pre-coherence G6 gate",
+    "normalized_gate_keys": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "GCoh",
+      "GM"
+    ]
+  }
+}
